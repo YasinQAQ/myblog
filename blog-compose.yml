@@ -3,7 +3,7 @@
       myblog:
         image: moclaf/myblog:latest
         ports:
-            - "4000:4000"
+            - "80:4000"
         volumes:
             - ./source:/myblog/source
         restart: always
