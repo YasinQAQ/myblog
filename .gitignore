@@ -1,0 +1,21 @@
+/theme/next/.DS_Store
+/theme/next/.idea/
+i/theme/next/*.log
+/theme/next/*.iml
+/theme/next/node_modules/
+node_modules/
+public/
+db.json
+
+# Ignore unused verdors' files
+/theme/next/source/lib/fancybox/*
+!/theme/next/source/lib/fancybox/source/
+
+/theme/next/source/lib/font-awesome/less/
+/theme/next/source/lib/font-awesome/scss/
+
+/theme/next/source/lib/ua-parser-js/*
+!/theme/next/source/lib/ua-parser-js/dist/
+
+/theme/next/source/lib/Han/*
+!/theme/next/source/lib/Han/dist/
